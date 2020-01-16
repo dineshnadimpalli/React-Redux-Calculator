@@ -5,11 +5,11 @@ git clone https://github.com/dineshnadimpalli/React-Redux-Calculator.git
 
 #Go to the React folder
 
-cd React-Redux-Calculator
+``cd React-Redux-Calculator``
 
-npm i
+``npm i``
 
-npm start
+``npm start``
 
 The frontend will now automatically run on port http://localhost:3000
 
