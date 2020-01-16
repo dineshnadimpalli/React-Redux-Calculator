@@ -1,7 +1,7 @@
 # React-Redux-Calculator
 A simple calculator using react, redux and mathjs
 
-git clone https://github.com/dineshnadimpalli/React-Redux-Calculator.git
+``git clone https://github.com/dineshnadimpalli/React-Redux-Calculator.git``
 
 #Go to the React folder
 
